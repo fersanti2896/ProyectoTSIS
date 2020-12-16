@@ -1,0 +1,5 @@
+Proyecto: Aplicación de verificación vs robo de bibicletas
+
+Integrantes: 
+- Banda Morales Roberto. 
+- Nicolás Santiago José Fernando. 
